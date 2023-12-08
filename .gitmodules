@@ -1,0 +1,12 @@
+[submodule "Foundry-Simple-Storage/foundry-simple-storage-course/lib/forge-std"]
+	path = Foundry-Simple-Storage/foundry-simple-storage-course/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry-Simple-Storage/foundry-fund-me-contract/lib/forge-std"]
+	path = Foundry-Simple-Storage/foundry-fund-me-contract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry-Simple-Storage/foundry-fund-me-contract/lib/chainlink-brownie-contracts"]
+	path = Foundry-Simple-Storage/foundry-fund-me-contract/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Foundry-Simple-Storage/foundry-fund-me-contract/lib/foundry-devops"]
+	path = Foundry-Simple-Storage/foundry-fund-me-contract/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
